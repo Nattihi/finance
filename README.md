@@ -1,5 +1,5 @@
 # finance
-
+C$50 Finance
 Link to video:
 https://youtu.be/qSj6ZIrlVTs
 

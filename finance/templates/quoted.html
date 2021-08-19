@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+     <p> A share of {{ quote ["symbol"] }} cost {{ quote ["price"] | usd }}.</p>
+     
+{% endblock %}
